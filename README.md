@@ -1,4 +1,4 @@
-## Site teste da UNIJUI 
+## Site teste da UNIJUI - Imersão Dev com Google Gemini
 
 ### **O que faz essa aplicação?**
 
