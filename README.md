@@ -12,6 +12,6 @@ Imagina um buscador super simples dentro de um site da Unijui. Você digita uma 
 
 ### Tecnologias usadas:
 
-* **HTML:** A estrutura básica da página, tipo os ossos do nosso buscador.
-* **CSS:** Deixa tudo bonitinho e organizado, tipo a roupa que a gente coloca pra sair.
-* **JavaScript:** A inteligência por trás de tudo, fazendo a busca e mostrando os resultados.
+* **HTML**
+* **CSS** 
+* **JavaScript** 
