@@ -2,7 +2,7 @@
 
 ### **O que faz essa aplicação?**
 
-Imagina um buscador super simples dentro de um site da Unijui. Você digita uma palavra-chave e ele te mostra tudo que tem a ver com ela!
+Realizar buscas em um site teste da Unijui.
 
 ### Como funciona?
 
